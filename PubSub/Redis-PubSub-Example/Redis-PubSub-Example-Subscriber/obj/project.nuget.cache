@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hRHdbxQ3l9oa7GBDD3kD4FsyBEHhxtKpx4JoI5zX7CZPyQBUCP6npHfYJuAS9Exz5z6ndF/WPqZ1xQicxXzixA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OGUZHAN\\Desktop\\yazılım dersler\\GITHUB\\Redis-Training\\PubSub\\Redis-PubSub-Example\\Redis-PubSub-Example-Subscriber\\Redis-PubSub-Example-Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
